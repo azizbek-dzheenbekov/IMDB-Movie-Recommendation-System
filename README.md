@@ -6,6 +6,10 @@ This Jupyter notebook demonstrates the use of various recommendation algorithms 
 
 The IMDB movies dataset contains metadata for all 45,000 movies listed in the Full MovieLens Dataset, including cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts, and vote averages. The dataset also includes files containing 26 million ratings from 270,000 users for all 45,000 movies. Ratings are on a scale of 1-5 and have been obtained from the official GroupLens website.
 
+## Download:
+
+https://www.kaggle.com/rounakbanik/the-movies-dataset?select=tings.csv
+
 ## Technologies Used
 
 The notebook uses various recommendation algorithms such as Apriori, Eclat, Markov Chains, Surprise, SVD, and Vector Spaces. These techniques are implemented using Python libraries such as mlxtend, Markovify, Surprise, and Scikit-learn.
